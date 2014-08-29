@@ -8,21 +8,30 @@
 
 Want some more practice with ruby? Here are additional resources to help you dive deeper into what you've learned in class:
 
-### Chris Pine's [Learn To Program](https://pine.fm/LearnToProgram/) is an excellent resource for beginners. Check out these chapters: 
+#### Chris Pine's [Learn To Program](https://pine.fm/LearnToProgram/) 
 
-  Chapter 1 - [Numbers](https://pine.fm/LearnToProgram/?Chapter=01)
+This is an excellent resource for beginners. Check out these chapters: 
 
-  Chapter 2 - [Letters](https://pine.fm/LearnToProgram/?Chapter=02)
+* Chapter 1 - [Numbers](https://pine.fm/LearnToProgram/?Chapter=01)
 
-  Chapter 3 - [Variables and Assignment](https://pine.fm/LearnToProgram/?Chapter=03)
+* Chapter 2 - [Letters](https://pine.fm/LearnToProgram/?Chapter=02)
 
-  Chapter 4 - [Mixing It Up](https://pine.fm/LearnToProgram/?Chapter=04)
+* Chapter 3 - [Variables and Assignment](https://pine.fm/LearnToProgram/?Chapter=03)
 
-### The name of this website may be a little rude but the content is helpful! 
+* Chapter 4 - [Mixing It Up](https://pine.fm/LearnToProgram/?Chapter=04)
 
-[Strings](http://ruby.bastardsbook.com/chapters/strings/)
-[Numbers](http://ruby.bastardsbook.com/chapters/numbers/)
+#### The Bastards Book of Ruby
 
-### Falling in love with strings? Learn everything you could possibly want to know about them [here] (http://www.eriktrautman.com/posts/ruby-explained-strings)
+The name of this website may be a little rude but the content is helpful! 
 
-http://teamtreehouse.com/library/ruby-foundations/numbers/creating-numbers
+* [Strings](http://ruby.bastardsbook.com/chapters/strings/)
+
+* [Numbers](http://ruby.bastardsbook.com/chapters/numbers/)
+
+#### Falling in love with strings? 
+
+Learn everything you could possibly want to know about them [here](http://www.eriktrautman.com/posts/ruby-explained-strings)
+
+#### Nuts about numbers?
+
+Get more info on number types from our friends at [Team Treehouse](http://teamtreehouse.com/library/ruby-foundations/numbers/creating-numbers)
