@@ -22,7 +22,7 @@ This is an excellent resource for beginners. Check out these chapters:
 
 #### The Bastards Book of Ruby
 
-The name of this website may be a little rude but the content is helpful! 
+The name may be a little rude but this website is helpful! 
 
 * [Strings](http://ruby.bastardsbook.com/chapters/strings/)
 
