@@ -8,7 +8,7 @@
 
 Want some more practice with ruby? Here are additional resources to help you dive deeper into what you've learned in class:
 
-* Chris Pine's [Learn To Program](https://pine.fm/LearnToProgram/) is an excellent resource for beginners. Check out these chapters: 
+### Chris Pine's [Learn To Program](https://pine.fm/LearnToProgram/) is an excellent resource for beginners. Check out these chapters: 
 
   Chapter 1 - [Numbers](https://pine.fm/LearnToProgram/?Chapter=01)
 
@@ -18,13 +18,11 @@ Want some more practice with ruby? Here are additional resources to help you div
 
   Chapter 4 - [Mixing It Up](https://pine.fm/LearnToProgram/?Chapter=04)
 
+### The name of this website may be a little rude but the content is helpful! 
 
-* Falling in love with strings? Learn everything you could possibly want to know about them [here] (http://www.eriktrautman.com/posts/ruby-explained-strings)
+[Strings](http://ruby.bastardsbook.com/chapters/strings/)
+[Numbers](http://ruby.bastardsbook.com/chapters/numbers/)
 
-
-* Ignore the rude name of this website 
-
-http://ruby.bastardsbook.com/chapters/strings/
-http://ruby.bastardsbook.com/chapters/numbers/
+### Falling in love with strings? Learn everything you could possibly want to know about them [here] (http://www.eriktrautman.com/posts/ruby-explained-strings)
 
 http://teamtreehouse.com/library/ruby-foundations/numbers/creating-numbers
