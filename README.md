@@ -1,7 +1,8 @@
 ---
-  tags: resources
+  tags: resources, kids, strings, intergers, floats, variables
   languages: ruby
   level: 1
+  type: resources
 ---
 
 # Ruby resources
