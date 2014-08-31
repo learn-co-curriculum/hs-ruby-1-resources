@@ -31,8 +31,8 @@ The name may be a little rude but this website is helpful!
 
 #### Falling in love with strings? 
 
-Learn everything you could possibly want to know about them [here](http://www.eriktrautman.com/posts/ruby-explained-strings)
+Learn everything you could possibly want to know about them [here](http://www.eriktrautman.com/posts/ruby-explained-strings).
 
 #### Nuts about numbers?
 
-Get more info on number types from our friends at [Team Treehouse](http://teamtreehouse.com/library/ruby-foundations/numbers/creating-numbers)
+Get more info on number types from our friends at [Team Treehouse](http://teamtreehouse.com/library/ruby-foundations/numbers/creating-numbers).
