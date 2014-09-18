@@ -9,6 +9,8 @@
 
 Want some more practice with ruby? Here are additional resources to help you dive deeper into what you've learned in class:
 
+<iframe width="730" height="445" src="//www.youtube.com/embed/6hfOvs8pY1k" frameborder="0" allowfullscreen></iframe>
+
 #### Chris Pine's [Learn To Program](https://pine.fm/LearnToProgram/) 
 
 This is an excellent resource for beginners. Check out these chapters: 
