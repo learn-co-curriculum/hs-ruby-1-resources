@@ -5,14 +5,13 @@
   type: resources
 ---
 
-# Ruby resources
-
+## Ruby Resources
 Want some more practice with Ruby? Here are additional resources to help you dive deeper into what you've learned in class:
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/6hfOvs8pY1k" frameborder="0" allowfullscreen></iframe>
+### Algorithms TED Talk
+Do you know what an algorithm is? Check out [this TED Talk](http://www.youtube.com/embed/6hfOvs8pY1k) about how algorithms can be used in seemply simple situations and also complex ones.
 
-#### Chris Pine's [Learn To Program](https://pine.fm/LearnToProgram/) 
-
+### Chris Pine's [Learn To Program](https://pine.fm/LearnToProgram/) 
 This is an excellent resource for beginners. Check out these chapters: 
 
 * Chapter 1 - [Numbers](https://pine.fm/LearnToProgram/?Chapter=01)
@@ -23,18 +22,15 @@ This is an excellent resource for beginners. Check out these chapters:
 
 * Chapter 4 - [Mixing It Up](https://pine.fm/LearnToProgram/?Chapter=04)
 
-#### The Bastards Book of Ruby
-
+### The Bastards Book of Ruby
 The name may be a little rude but this website is helpful! 
 
 * [Strings](http://ruby.bastardsbook.com/chapters/strings/)
 
 * [Numbers](http://ruby.bastardsbook.com/chapters/numbers/)
 
-#### Falling in love with strings? 
-
+### Falling in love with strings? 
 Learn everything you could possibly want to know about them [here](http://www.eriktrautman.com/posts/ruby-explained-strings).
 
-#### Nuts about numbers?
-
+### Nuts about numbers?
 Get more info on number types from our friends at [Team Treehouse](http://teamtreehouse.com/library/ruby-foundations/numbers/creating-numbers).
