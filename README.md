@@ -21,12 +21,14 @@ This is an excellent resource for beginners. Check out these chapters:
 * Chapter 3 - [Variables and Assignment](https://pine.fm/LearnToProgram/?Chapter=03)
 
 * Chapter 4 - [Mixing It Up](https://pine.fm/LearnToProgram/?Chapter=04)
+
 ### The Bastards Book of Ruby
 The name may be a little rude but this website is helpful! 
 
 * [Strings](http://ruby.bastardsbook.com/chapters/strings/)
 
 * [Numbers](http://ruby.bastardsbook.com/chapters/numbers/)
+
 ### Falling in love with strings? 
 Learn everything you could possibly want to know about them [here](http://www.eriktrautman.com/posts/ruby-explained-strings).
 
