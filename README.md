@@ -1,9 +1,4 @@
----
-  tags: resources, kids, strings, intergers, floats, variables
-  languages: ruby
-  level: 1
-  type: resources
----
+
 
 ## Ruby Resources
 Want some more practice with Ruby? Here are additional resources to help you dive deeper into what you've learned in class:
