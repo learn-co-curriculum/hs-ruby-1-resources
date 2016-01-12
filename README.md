@@ -17,7 +17,7 @@ This is an excellent resource for beginners. Check out these chapters:
 
 * Chapter 4 - [Mixing It Up](https://pine.fm/LearnToProgram/?Chapter=04)
 
-### The Bastards Book of Ruby
+### The B****rds Book of Ruby
 The name may be a little rude but this website is helpful! 
 
 * [Strings](http://ruby.bastardsbook.com/chapters/strings/)
