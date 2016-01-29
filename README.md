@@ -30,4 +30,4 @@ Learn everything you could possibly want to know about them [here](http://www.er
 ### Nuts about numbers?
 Get more info on number types from our friends at [Team Treehouse](http://teamtreehouse.com/library/ruby-foundations/numbers/creating-numbers).
 
-<a href='https://learn.co/lessons/hs-ruby-1-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-ruby-1-resources' title='Ruby Resources'>Ruby Resources</a> on Learn.co and start learning to code for free.</p>
